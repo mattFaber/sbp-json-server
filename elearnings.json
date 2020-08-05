@@ -5,7 +5,7 @@
     "lang":"en",
     "image":"uQb6cB6O4tBPxWhpco5fAMZQNRsuXd1TDywcuj0E.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/mod-1-flood-preparedness-web/story.html",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -18,7 +18,7 @@
     "lang":"en",
     "image":"wtCMTdp7I9tQQSoaO1nfv17G9dAkGUcmxa81s9aT.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/navigating-disaster-assistance-raw-lTHp0FPy/content/",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -33,7 +33,7 @@
     "lang":"en",
     "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/mod-2-contractor-fraud-web/story.html",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -48,7 +48,7 @@
     "lang":"en",
     "image":"Y1uVI0SdrS7O9enMNC8FYYlteozBMtzJj15UWWty.png",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/prepare-and-protect-yourself-from-wildfires/content%203/",
-    "catagories":[
+    "categories":[
       "wildfire"
     ],
     "slug":"prepare-and-protect-yourself-from-wildfires-elearning",
@@ -60,7 +60,7 @@
     "lang":"en",
     "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/the-truth-about-mold-web/content/",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -73,7 +73,7 @@
     "lang":"en",
     "image":"HpwANkKX2MokZzUVW9mU5FQOL65bGFT2lbgJpiWp.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/preparing-for-the-unexpected/",
-    "catagories":[
+    "categories":[
       "tornado"
     ],
     "slug":"tornadoes-preparing-for-the-unexpected-elearning",
@@ -85,7 +85,7 @@
     "lang":"en",
     "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/la-verdad-sobre-el-moho-raw-HTMLzip/content/",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -98,7 +98,7 @@
     "lang":"es",
     "image":"wtCMTdp7I9tQQSoaO1nfv17G9dAkGUcmxa81s9aT.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/como-dirigir-la-asistencia-en-caso-de-desastre-HTML/content/",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -113,7 +113,7 @@
     "lang":"es",
     "image":"uQb6cB6O4tBPxWhpco5fAMZQNRsuXd1TDywcuj0E.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/MOD1-Flood%20Preparedness-Quiz%20-%20Spanish%20-%20Storyline%20output%20-%20WEB/story.html",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -126,7 +126,7 @@
     "lang":"es",
     "image":"hG6C9Nw4kqXPQhPgE5hARrcucKsCvdGLvr269xje.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/Mod5-preparese-y-protejase-de-los-incendios-forestales/",
-    "catagories":[
+    "categories":[
       "wildfire"
     ],
     "slug":"preparese-y-protejase-de-los-incendios-forestales-elearning",
@@ -138,7 +138,7 @@
     "lang":"es",
     "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/MOD2-Contractor-Fraud-Sp-WEB/MOD2-Contractor%20Fraud%20-%20Spanish%20-%20Storyline%20output%20-%20WEB/story.html",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -153,7 +153,7 @@
     "lang":"es",
     "image":"5CsAx5IFvHaw53cY376SuTksXlc45t1RFAyqpY8y.jpeg",
     "courseUrl":"https://sbpusa.org/public/uploads/elearning/preparing-for-the-unexpected-esp/content/",
-    "catagories":[
+    "categories":[
       "tornado"
     ],
     "slug":"tornados-como-prepararse-para-lo-inesperado-elearning",

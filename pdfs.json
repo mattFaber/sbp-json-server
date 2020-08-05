@@ -5,7 +5,7 @@
     "lang":"en",
     "image":"KHKX7yFKpLrkwB8aIvFVxYIwWN2V1riiBgVZAdi8.png",
     "resourceId":"/pdf/business-owner-checklist.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -20,7 +20,7 @@
     "lang":"en",
     "image":"PBSkoa7HWnEpfXAtIsIAI7TuO1Zbd6bPtmTss2LU.png",
     "resourceId":"/pdf/business-resource-guide.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -35,7 +35,7 @@
     "lang":"en",
     "image":"oLgv7WBQf5eeZ1Cp3plKbyUPGJp8VRFs3SfQhFaX.png",
     "resourceId":"/pdf/home-damage-and-elevation-and-code-compliance.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -50,7 +50,7 @@
     "lang":"en",
     "image":"UH352yELMVIunib4aJ8ii9H1AV3EPtCpBZRuMl9q.png",
     "resourceId":"/pdf/homeowners-resource-guide.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -65,7 +65,7 @@
     "lang":"en",
     "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
     "resourceId":"/pdf/mold-remediation-guide.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -78,7 +78,7 @@
     "lang":"en",
     "image":"0mhkT7gwHZzjHKsyCq6UvcIQEJkUb7LFyvOziPsK.png",
     "resourceId":"/pdf/mold-remediation-supplies.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -91,7 +91,7 @@
     "lang":"en",
     "image":"yxqvOnjnNvfxiNBsycHgi996uOdJxc0Sc2sQofJ4.png",
     "resourceId":"/pdf/muck-and-gut-guide.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -104,7 +104,7 @@
     "lang":"en",
     "image":"Ewo4n27fzQ80kXF873Y9CvypJLKSWByJ8PWgYh07.jpeg",
     "resourceId":"/pdf/post-disaster-insurance-guide.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -119,7 +119,7 @@
     "lang":"en",
     "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
     "resourceId":"/pdf/protect-against-contractor-fraud.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -134,7 +134,7 @@
     "lang":"es",
     "image":"oLgv7WBQf5eeZ1Cp3plKbyUPGJp8VRFs3SfQhFaX.png",
     "resourceId":"/pdf/danos-en-el-hogar-y-elevacion-y-cumplimiento-del-codigo.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -149,7 +149,7 @@
     "lang":"es",
     "image":"UH352yELMVIunib4aJ8ii9H1AV3EPtCpBZRuMl9q.png",
     "resourceId":"/pdf/guia-de-recursos-para-propietarios-de-viviendas.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -164,7 +164,7 @@
     "lang":"es",
     "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
     "resourceId":"/pdf/guia-de-remediacion-de-moho.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -177,7 +177,7 @@
     "lang":"es",
     "image":"0mhkT7gwHZzjHKsyCq6UvcIQEJkUb7LFyvOziPsK.png",
     "resourceId":"/pdf/suministros-de-remediacion-de-moho.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -190,7 +190,7 @@
     "lang":"es",
     "image":"yxqvOnjnNvfxiNBsycHgi996uOdJxc0Sc2sQofJ4.png",
     "resourceId":"/pdf/guia-de-limpieza-profunda-y-remocion-de-escompros.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane"
     ],
@@ -203,7 +203,7 @@
     "lang":"es",
     "image":"Ewo4n27fzQ80kXF873Y9CvypJLKSWByJ8PWgYh07.jpeg",
     "resourceId":"/pdf/guia-de-seguro-post-desastre.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -218,7 +218,7 @@
     "lang":"es",
     "image":"wtCMTdp7I9tQQSoaO1nfv17G9dAkGUcmxa81s9aT.jpeg",
     "resourceId":"/pdf/navegando-por-fema-y-el-proceso-de-la-sba.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
@@ -233,7 +233,7 @@
     "lang":"es",
     "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
     "resourceId":"/pdf/protejase-del-fraude-contratista.pdf",
-    "catagories":[
+    "categories":[
       "flood",
       "hurricane",
       "tornado",
