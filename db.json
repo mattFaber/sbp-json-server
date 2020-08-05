@@ -1,5 +1,5 @@
 {
-  "elearnings": [
+  "resources": [
     {
       "type":"elearning",
       "title":"Protect Yourself from Contractor Fraud",
@@ -79,9 +79,7 @@
       ],
       "slug":"la-verdad-sobre-el-moho-elearning",
       "uuid":"SBP-M9RqXkmb-y9wgLllv-yGMFsPe3"
-    }
-  ],
-  "pdfs": [
+    },
     {
       "type":"pdf",
       "title":"Home Damage and Elevation and Code Compliance",
@@ -167,9 +165,7 @@
       ],
       "slug":"guia-de-remediacion-de-moho-pdf",
       "uuid":"SBP-EgK2JSWR-NKrkcjik-J1laSael"
-    }
-  ],
-  "videos": [
+    },
     {
       "type":"video",
       "title":"5 Quick Things for Preparedness",
