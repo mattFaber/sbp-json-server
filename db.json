@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id":1,
       "type":"elearning",
       "title":"Protect Yourself from Contractor Fraud",
       "lang":"en",
@@ -16,6 +17,7 @@
       "uuid":"SBP-tEUlUcg5-d62XkbJ9-nybcIBhU"
     },
     {
+      "id":2,
       "type":"elearning",
       "title":"Prepare and Protect Yourself from Wildfires",
       "lang":"en",
@@ -28,6 +30,7 @@
       "uuid":"SBP-C32u0OgX-cXRKx4Uk-rCChoyK4"
     },
     {
+      "id":3,
       "type":"elearning",
       "title":"The Truth About Mold",
       "lang":"en",
@@ -41,6 +44,7 @@
       "uuid":"SBP-aDZGJcZi-Bh3hdY08-WWXhGq7S"
     },
     {
+      "id":4,
       "type":"elearning",
       "title":"Protéjase del fraude contratista",
       "lang":"es",
@@ -56,6 +60,7 @@
       "uuid":"SBP-HOegSk3f-aSlJuohz-fO3S0FwU"
     },
     {
+      "id":5,
       "type":"elearning",
       "title":"Prepárese y protéjase de los incendios forestales",
       "lang":"es",
@@ -68,6 +73,7 @@
       "uuid":"SBP-8L47XnHk-siJgz0zX-1XFqq1np"
     },
     {
+      "id":6,
       "type":"elearning",
       "title":"La verdad sobre el moho",
       "lang":"en",
@@ -81,6 +87,7 @@
       "uuid":"SBP-M9RqXkmb-y9wgLllv-yGMFsPe3"
     },
     {
+      "id":7,
       "type":"pdf",
       "title":"Home Damage and Elevation and Code Compliance",
       "lang":"en",
@@ -96,6 +103,7 @@
       "uuid":"SBP-ioDcchbQ-qdWAHpmE-3MD1gOR7"
     },
     {
+      "id":8,
       "type":"pdf",
       "title":"Homeowners Resource Guide",
       "lang":"en",
@@ -111,6 +119,7 @@
       "uuid":"SBP-rUnFR2Ax-Wyoo78oM-ddKYHG9C"
     },
     {
+      "id":9,
       "type":"pdf",
       "title":"Mold Remediation Guide",
       "lang":"en",
@@ -124,6 +133,7 @@
       "uuid":"SBP-vR85Qhyl-tSQQex9M-DgUlgERk"
     },
     {
+      "id":10,
       "type":"pdf",
       "title":"Daños en el hogar y elevación y cumplimiento del código",
       "lang":"es",
@@ -139,6 +149,7 @@
       "uuid":"SBP-FLgLx3ht-ftc95bhd-RMX7g4Xg"
     },
     {
+      "id":11,
       "type":"pdf",
       "title":"Guía de recursos para propietarios de viviendas",
       "lang":"es",
@@ -154,6 +165,7 @@
       "uuid":"SBP-HvwJuWDc-GKppQyTa-jWuUGcxH"
     },
     {
+      "id":12,
       "type":"pdf",
       "title":"Guía de remediación de moho",
       "lang":"es",
@@ -167,6 +179,7 @@
       "uuid":"SBP-EgK2JSWR-NKrkcjik-J1laSael"
     },
     {
+      "id":13,
       "type":"video",
       "title":"5 Quick Things for Preparedness",
       "lang":"en",
@@ -182,6 +195,7 @@
       "uuid":"SBP-hCK9ZCBc-M5SE9Odz-i5wgdCI2"
     },
     {
+      "id":14,
       "type":"video",
       "title":"Advocate for Yourself",
       "lang":"en",
@@ -197,6 +211,7 @@
       "uuid":"SBP-R7TfTum7-yWxAbB3T-p9O3Fiez"
     },
     {
+      "id":15,
       "type":"video",
       "title":"Avoiding Contractor Fraud",
       "lang":"en",
@@ -212,6 +227,7 @@
       "uuid":"SBP-8d3oUDXQ-p3Qbj1vt-qr65ZTSe"
     },
     {
+      "id":16,
       "type":"video",
       "title":"How to Muck and Gut",
       "lang":"en",
@@ -225,6 +241,7 @@
       "uuid":"SBP-EGVPMZQT-hyMkVufs-TGjl47qM"
     },
     {
+      "id":17,
       "type":"video",
       "title":"Navigating the FEMA Process",
       "lang":"en",
@@ -240,6 +257,7 @@
       "uuid":"SBP-2IlCC9iw-p3ImbGrJ-HENk6qvM"
     },
     {
+      "id":18,
       "type":"video",
       "title":"Supplies for Mold Remediation",
       "lang":"en",
