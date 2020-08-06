@@ -6,7 +6,7 @@
       "title":"Protect Yourself from Contractor Fraud",
       "lang":"en",
       "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
-      "courseUrl":"https://sbpusa.org/public/uploads/elearning/mod-2-contractor-fraud-web/story.html",
+      "courseURL":"https://sbpusa.org/public/uploads/elearning/mod-2-contractor-fraud-web/story.html",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
@@ -22,7 +22,7 @@
       "title":"Prepare and Protect Yourself from Wildfires",
       "lang":"en",
       "image":"Y1uVI0SdrS7O9enMNC8FYYlteozBMtzJj15UWWty.png",
-      "courseUrl":"https://sbpusa.org/public/uploads/elearning/prepare-and-protect-yourself-from-wildfires/content%203/",
+      "courseURL":"https://sbpusa.org/public/uploads/elearning/prepare-and-protect-yourself-from-wildfires/content%203/",
       "categories":[
         { "title": "wildfire" }
       ],
@@ -35,7 +35,7 @@
       "title":"The Truth About Mold",
       "lang":"en",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
-      "courseUrl":"https://sbpusa.org/public/uploads/elearning/the-truth-about-mold-web/content/",
+      "courseURL":"https://sbpusa.org/public/uploads/elearning/the-truth-about-mold-web/content/",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
@@ -49,7 +49,7 @@
       "title":"Protéjase del fraude contratista",
       "lang":"es",
       "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
-      "courseUrl":"https://sbpusa.org/public/uploads/elearning/MOD2-Contractor-Fraud-Sp-WEB/MOD2-Contractor%20Fraud%20-%20Spanish%20-%20Storyline%20output%20-%20WEB/story.html",
+      "courseURL":"https://sbpusa.org/public/uploads/elearning/MOD2-Contractor-Fraud-Sp-WEB/MOD2-Contractor%20Fraud%20-%20Spanish%20-%20Storyline%20output%20-%20WEB/story.html",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
@@ -65,7 +65,7 @@
       "title":"Prepárese y protéjase de los incendios forestales",
       "lang":"es",
       "image":"hG6C9Nw4kqXPQhPgE5hARrcucKsCvdGLvr269xje.jpeg",
-      "courseUrl":"https://sbpusa.org/public/uploads/elearning/Mod5-preparese-y-protejase-de-los-incendios-forestales/",
+      "courseURL":"https://sbpusa.org/public/uploads/elearning/Mod5-preparese-y-protejase-de-los-incendios-forestales/",
       "categories":[
         { "title": "wildfire" }
       ],
@@ -78,7 +78,7 @@
       "title":"La verdad sobre el moho",
       "lang":"en",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
-      "courseUrl":"https://sbpusa.org/public/uploads/elearning/la-verdad-sobre-el-moho-raw-HTMLzip/content/",
+      "courseURL":"https://sbpusa.org/public/uploads/elearning/la-verdad-sobre-el-moho-raw-HTMLzip/content/",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
@@ -92,7 +92,7 @@
       "title":"Home Damage and Elevation and Code Compliance",
       "lang":"en",
       "image":"oLgv7WBQf5eeZ1Cp3plKbyUPGJp8VRFs3SfQhFaX.png",
-      "resourceId":"/pdf/home-damage-and-elevation-and-code-compliance.pdf",
+      "pdfFile":"/pdf/home-damage-and-elevation-and-code-compliance.pdf",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
@@ -108,7 +108,7 @@
       "title":"Homeowners Resource Guide",
       "lang":"en",
       "image":"UH352yELMVIunib4aJ8ii9H1AV3EPtCpBZRuMl9q.png",
-      "resourceId":"/pdf/homeowners-resource-guide.pdf",
+      "pdfFile":"/pdf/homeowners-resource-guide.pdf",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
@@ -124,7 +124,7 @@
       "title":"Mold Remediation Guide",
       "lang":"en",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
-      "resourceId":"/pdf/mold-remediation-guide.pdf",
+      "pdfFile":"/pdf/mold-remediation-guide.pdf",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
@@ -138,7 +138,7 @@
       "title":"Daños en el hogar y elevación y cumplimiento del código",
       "lang":"es",
       "image":"oLgv7WBQf5eeZ1Cp3plKbyUPGJp8VRFs3SfQhFaX.png",
-      "resourceId":"/pdf/danos-en-el-hogar-y-elevacion-y-cumplimiento-del-codigo.pdf",
+      "pdfFile":"/pdf/danos-en-el-hogar-y-elevacion-y-cumplimiento-del-codigo.pdf",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
@@ -154,7 +154,7 @@
       "title":"Guía de recursos para propietarios de viviendas",
       "lang":"es",
       "image":"UH352yELMVIunib4aJ8ii9H1AV3EPtCpBZRuMl9q.png",
-      "resourceId":"/pdf/guia-de-recursos-para-propietarios-de-viviendas.pdf",
+      "pdfFile":"/pdf/guia-de-recursos-para-propietarios-de-viviendas.pdf",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
@@ -170,7 +170,7 @@
       "title":"Guía de remediación de moho",
       "lang":"es",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
-      "resourceId":"/pdf/guia-de-remediacion-de-moho.pdf",
+      "pdfFile":"/pdf/guia-de-remediacion-de-moho.pdf",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
