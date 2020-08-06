@@ -20,8 +20,8 @@
     {
       "id":2,
       "uuid":"SBP-C32u0OgX-cXRKx4Uk-rCChoyK4",
-      "type":"elearning",
       "slug":"prepare-and-protect-yourself-from-wildfires-elearning",
+      "type":"elearning",
       "title":"Prepare and Protect Yourself from Wildfires",
       "image":"Y1uVI0SdrS7O9enMNC8FYYlteozBMtzJj15UWWty.png",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/prepare-and-protect-yourself-from-wildfires/content%203/",
@@ -48,8 +48,8 @@
     },
     {
       "id":4,
-      "slug":"protejase-del-fraude-contratista-elearning",
       "uuid":"SBP-HOegSk3f-aSlJuohz-fO3S0FwU",
+      "slug":"protejase-del-fraude-contratista-elearning",
       "type":"elearning",
       "title":"Protéjase del fraude contratista",
       "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
