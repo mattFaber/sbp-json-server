@@ -2,273 +2,291 @@
   "resources": [
     {
       "id":1,
+      "uuid":"SBP-tEUlUcg5-d62XkbJ9-nybcIBhU",
+      "slug":"protect-yourself-from-contractor-fraud-elearning",
       "type":"elearning",
       "title":"Protect Yourself from Contractor Fraud",
-      "lang":"en",
       "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/mod-2-contractor-fraud-web/story.html",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"protect-yourself-from-contractor-fraud-elearning",
-      "uuid":"SBP-tEUlUcg5-d62XkbJ9-nybcIBhU"
+      "lang":"en"
     },
     {
       "id":2,
+      "uuid":"SBP-C32u0OgX-cXRKx4Uk-rCChoyK4",
       "type":"elearning",
+      "slug":"prepare-and-protect-yourself-from-wildfires-elearning",
       "title":"Prepare and Protect Yourself from Wildfires",
-      "lang":"en",
       "image":"Y1uVI0SdrS7O9enMNC8FYYlteozBMtzJj15UWWty.png",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/prepare-and-protect-yourself-from-wildfires/content%203/",
+      "process": "prepare",
       "categories":[
         { "title": "wildfire" }
       ],
-      "slug":"prepare-and-protect-yourself-from-wildfires-elearning",
-      "uuid":"SBP-C32u0OgX-cXRKx4Uk-rCChoyK4"
+      "lang":"en"
     },
     {
       "id":3,
+      "uuid":"SBP-aDZGJcZi-Bh3hdY08-WWXhGq7S",
+      "slug":"the-truth-about-mold-elearning",
       "type":"elearning",
       "title":"The Truth About Mold",
-      "lang":"en",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/the-truth-about-mold-web/content/",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
       ],
-      "slug":"the-truth-about-mold-elearning",
-      "uuid":"SBP-aDZGJcZi-Bh3hdY08-WWXhGq7S"
+      "lang":"en"
     },
     {
       "id":4,
+      "slug":"protejase-del-fraude-contratista-elearning",
+      "uuid":"SBP-HOegSk3f-aSlJuohz-fO3S0FwU",
       "type":"elearning",
       "title":"Protéjase del fraude contratista",
-      "lang":"es",
       "image":"OJkk3apOhwqmiWZeINKigIqZ32s9ya2fCRe6JOi8.png",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/MOD2-Contractor-Fraud-Sp-WEB/MOD2-Contractor%20Fraud%20-%20Spanish%20-%20Storyline%20output%20-%20WEB/story.html",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"protejase-del-fraude-contratista-elearning",
-      "uuid":"SBP-HOegSk3f-aSlJuohz-fO3S0FwU"
+      "lang":"es"
     },
     {
       "id":5,
+      "uuid":"SBP-8L47XnHk-siJgz0zX-1XFqq1np",
+      "slug":"preparese-y-protejase-de-los-incendios-forestales-elearning",
       "type":"elearning",
       "title":"Prepárese y protéjase de los incendios forestales",
-      "lang":"es",
       "image":"hG6C9Nw4kqXPQhPgE5hARrcucKsCvdGLvr269xje.jpeg",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/Mod5-preparese-y-protejase-de-los-incendios-forestales/",
+      "process": "prepare",
       "categories":[
         { "title": "wildfire" }
       ],
-      "slug":"preparese-y-protejase-de-los-incendios-forestales-elearning",
-      "uuid":"SBP-8L47XnHk-siJgz0zX-1XFqq1np"
+      "lang":"es"
     },
     {
       "id":6,
+      "uuid":"SBP-M9RqXkmb-y9wgLllv-yGMFsPe3",
+      "slug":"la-verdad-sobre-el-moho-elearning",
       "type":"elearning",
       "title":"La verdad sobre el moho",
-      "lang":"en",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
       "courseURL":"https://sbpusa.org/public/uploads/elearning/la-verdad-sobre-el-moho-raw-HTMLzip/content/",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
       ],
-      "slug":"la-verdad-sobre-el-moho-elearning",
-      "uuid":"SBP-M9RqXkmb-y9wgLllv-yGMFsPe3"
+      "lang":"en"
     },
     {
       "id":7,
+      "uuid":"SBP-ioDcchbQ-qdWAHpmE-3MD1gOR7",
+      "slug":"home-damage-and-elevation-and-code-compliance-pdf",
       "type":"pdf",
       "title":"Home Damage and Elevation and Code Compliance",
-      "lang":"en",
       "image":"oLgv7WBQf5eeZ1Cp3plKbyUPGJp8VRFs3SfQhFaX.png",
       "pdfFile":"/pdf/home-damage-and-elevation-and-code-compliance.pdf",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"home-damage-and-elevation-and-code-compliance-pdf",
-      "uuid":"SBP-ioDcchbQ-qdWAHpmE-3MD1gOR7"
+      "lang":"en"
     },
     {
       "id":8,
+      "uuid":"SBP-rUnFR2Ax-Wyoo78oM-ddKYHG9C",
+      "slug":"homeowners-resource-guide-pdf",
       "type":"pdf",
       "title":"Homeowners Resource Guide",
-      "lang":"en",
       "image":"UH352yELMVIunib4aJ8ii9H1AV3EPtCpBZRuMl9q.png",
       "pdfFile":"/pdf/homeowners-resource-guide.pdf",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"homeowners-resource-guide-pdf",
-      "uuid":"SBP-rUnFR2Ax-Wyoo78oM-ddKYHG9C"
+      "lang":"en"
     },
     {
       "id":9,
+      "uuid":"SBP-vR85Qhyl-tSQQex9M-DgUlgERk",
+      "slug":"mold-remediation-guide-pdf",
       "type":"pdf",
       "title":"Mold Remediation Guide",
-      "lang":"en",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
       "pdfFile":"/pdf/mold-remediation-guide.pdf",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
       ],
-      "slug":"mold-remediation-guide-pdf",
-      "uuid":"SBP-vR85Qhyl-tSQQex9M-DgUlgERk"
+      "lang":"en"
     },
     {
       "id":10,
+      "slug":"danos-en-el-hogar-y-elevacion-y-cumplimiento-del-codigo-pdf",
+      "uuid":"SBP-FLgLx3ht-ftc95bhd-RMX7g4Xg",
       "type":"pdf",
       "title":"Daños en el hogar y elevación y cumplimiento del código",
-      "lang":"es",
       "image":"oLgv7WBQf5eeZ1Cp3plKbyUPGJp8VRFs3SfQhFaX.png",
       "pdfFile":"/pdf/danos-en-el-hogar-y-elevacion-y-cumplimiento-del-codigo.pdf",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"danos-en-el-hogar-y-elevacion-y-cumplimiento-del-codigo-pdf",
-      "uuid":"SBP-FLgLx3ht-ftc95bhd-RMX7g4Xg"
+      "lang":"es"
     },
     {
       "id":11,
+      "uuid":"SBP-HvwJuWDc-GKppQyTa-jWuUGcxH",
+      "slug":"guia-de-recursos-para-propietarios-de-viviendas-pdf",
       "type":"pdf",
       "title":"Guía de recursos para propietarios de viviendas",
-      "lang":"es",
       "image":"UH352yELMVIunib4aJ8ii9H1AV3EPtCpBZRuMl9q.png",
       "pdfFile":"/pdf/guia-de-recursos-para-propietarios-de-viviendas.pdf",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"guia-de-recursos-para-propietarios-de-viviendas-pdf",
-      "uuid":"SBP-HvwJuWDc-GKppQyTa-jWuUGcxH"
+      "lang":"es"
     },
     {
       "id":12,
+      "uuid":"SBP-EgK2JSWR-NKrkcjik-J1laSael",
+      "slug":"guia-de-remediacion-de-moho-pdf",
       "type":"pdf",
       "title":"Guía de remediación de moho",
-      "lang":"es",
       "image":"VF4WtLlTyftPfjABDksAbldqoc5zW0ltcZq6lhtm.png",
       "pdfFile":"/pdf/guia-de-remediacion-de-moho.pdf",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
       ],
-      "slug":"guia-de-remediacion-de-moho-pdf",
-      "uuid":"SBP-EgK2JSWR-NKrkcjik-J1laSael"
+      "lang":"es"
     },
     {
       "id":13,
+      "uuid":"SBP-hCK9ZCBc-M5SE9Odz-i5wgdCI2",
+      "slug":"5-quick-things-for-preparedness-video",
       "type":"video",
       "title":"5 Quick Things for Preparedness",
-      "lang":"en",
       "image":"placeholder.png",
       "videoId":"C6HhidqGjLI",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"5-quick-things-for-preparedness-video",
-      "uuid":"SBP-hCK9ZCBc-M5SE9Odz-i5wgdCI2"
+      "lang":"en"
     },
     {
       "id":14,
+      "uuid":"SBP-R7TfTum7-yWxAbB3T-p9O3Fiez",
+      "slug":"advocate-for-yourself-video",
       "type":"video",
       "title":"Advocate for Yourself",
-      "lang":"en",
       "image":"placeholder.png",
       "videoId":"LDLJZmKs1PE",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"advocate-for-yourself-video",
-      "uuid":"SBP-R7TfTum7-yWxAbB3T-p9O3Fiez"
+      "lang":"en"
     },
     {
       "id":15,
+      "uuid":"SBP-8d3oUDXQ-p3Qbj1vt-qr65ZTSe",
+      "slug":"avoiding-contractor-fraud-video",
       "type":"video",
       "title":"Avoiding Contractor Fraud",
-      "lang":"en",
       "image":"placeholder.png",
       "videoId":"_c92OSMsbyo",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"avoiding-contractor-fraud-video",
-      "uuid":"SBP-8d3oUDXQ-p3Qbj1vt-qr65ZTSe"
+      "lang":"en"
     },
     {
       "id":16,
+      "uuid":"SBP-EGVPMZQT-hyMkVufs-TGjl47qM",
+      "slug":"how-to-muck-and-gut-video",
       "type":"video",
       "title":"How to Muck and Gut",
-      "lang":"en",
       "image":"placeholder.png",
       "videoId":"eZWShxk4OSo",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
       ],
-      "slug":"how-to-muck-and-gut-video",
-      "uuid":"SBP-EGVPMZQT-hyMkVufs-TGjl47qM"
+      "lang":"en"
     },
     {
       "id":17,
+      "uuid":"SBP-2IlCC9iw-p3ImbGrJ-HENk6qvM",
+      "slug":"navigating-the-fema-process-video",
       "type":"video",
       "title":"Navigating the FEMA Process",
-      "lang":"en",
       "image":"placeholder.png",
       "videoId":"ohD_zkFm5LA",
+      "process": "recover",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" },
         { "title": "tornado" },
         { "title": "wildfire" }
       ],
-      "slug":"navigating-the-fema-process-video",
-      "uuid":"SBP-2IlCC9iw-p3ImbGrJ-HENk6qvM"
+      "lang":"en"
     },
     {
       "id":18,
+      "uuid":"SBP-p68ajmba-UQBpH3Or-uPKeA6eA",
+      "slug":"supplies-for-mold-remediation-video",
       "type":"video",
       "title":"Supplies for Mold Remediation",
-      "lang":"en",
       "image":"placeholder.png",
       "videoId":"eQIehdaVEPM",
+      "process": "prepare",
       "categories":[
         { "title": "flood" },
         { "title": "hurricane" }
       ],
-      "slug":"supplies-for-mold-remediation-video",
-      "uuid":"SBP-p68ajmba-UQBpH3Or-uPKeA6eA"
+      "lang":"en"
     }
   ]
 }
